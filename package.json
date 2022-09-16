@@ -1,13 +1,12 @@
-
 {
-    "name": "vanilla-js-web-boilerplate",
-    "author": "Rick Newman",
-    "version": "1.0.0",
-    "license": "MIT",
-    "scripts": {
-      "start": "browser-sync start --server \"src\" --files=\"src\""
-    },
-    "devDependencies": {
-      "browser-sync": "^2.27.10"
-    }
+  "name": "more-svg-animations",
+  "author": "Rick Newman",
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+    "start": "browser-sync start --server \"src\" --files=\"src\""
+  },
+  "devDependencies": {
+    "browser-sync": "^2.27.10"
   }
+}
